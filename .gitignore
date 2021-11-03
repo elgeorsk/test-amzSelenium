@@ -1,3 +1,4 @@
 .idea
-resources/screenshots
+src/main/resources/screenshots
+src/main/resources/chromedriver.exe
 target
