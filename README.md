@@ -1,6 +1,6 @@
 # Project Instructions
 
-Project 1: Automating the Amazon application using Selenium Webdriver
+###Project 1: Automating the Amazon application using Selenium Webdriver
 
 A maven project using Selenium Webdriver, the following requirements should be met:
 
